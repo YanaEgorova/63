@@ -1,0 +1,11 @@
+.info__wrapper  {
+   background-image: url('../img/img2.jpeg');
+}
+.info {
+    padding: 15rem 0;
+}
+@media screen and (min-width: 1024px)  {
+
+}
+
+

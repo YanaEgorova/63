@@ -1,0 +1,14 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-sub-bg-color: red;
+    --sub-text-color: #fff;
+    --accent-color: red;
+
+    --main-text-color: #000;
+
+    --main-font: 'Open Sans Condensed';
+    --title-font: 'Anton';
+    
+    font-size: 62.5%;
+}
